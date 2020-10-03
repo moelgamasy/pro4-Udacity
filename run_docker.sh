@@ -3,7 +3,7 @@
 ## Complete the following steps to get Docker running locally
 
 # Step 1:
-docker build --t udacity .
+docker build -t udacity .
 
 # Step 2: 
 docker image ls 
